@@ -8,11 +8,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>The one, the only, the league.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Going into Year 4, we have only one team that has tasted the glory that comes with being a champion.</p>
+  <p>Chase'n the Future runs this league. The 3-time back-to-back-to-back champion has shown everyone else no mercy in his construction of a perfect dynasty.</p>
+  <p>The rest of us have been taking notes, working diligently to position each of our teams to be the one to take down the king. Meanwhile, our resident league villain has been basking in his victories while keeping a keen eye on the defense of his crown. There are no days off at the top.</p>
+  <p>With some great rivalries set to battle, it'll be interesting to see how everything plays out. Lots of teams are at different stages yet once we kick-off, only one can win.</p>
+  <p>Will this be the year it all changes? I'm ready to find out.</p>
 `;
 
 /*   STEP 3   */
